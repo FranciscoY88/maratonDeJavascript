@@ -1,1 +1,1 @@
-# maratonDeJavascript
+# Una pequeña Maratón de Javascript
