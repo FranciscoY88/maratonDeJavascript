@@ -1,3 +1,1 @@
-# ■■■■■■■■■■■■■■■■■■■■■■■■■■■
-# █Un Maratón de Javascript.█
-# ■■■■■■■■■■■■■■■■■■■■■■■■■■■
+# █ Un Maratón de Javascript. █
